@@ -71,7 +71,7 @@ Currently @ **Aisahub** (Seoul, Remote) | Electrical Engineering @ Universitas I
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hamardikan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamardikan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=hamardikan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
