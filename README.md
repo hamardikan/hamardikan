@@ -17,12 +17,12 @@ I connect reliable operations with useful software: making systems easier to ins
 
 Four examples, chosen for operational usefulness and inspectable behavior:
 
+- [hmrdkn-labs/pak-satpam](https://github.com/hmrdkn-labs/pak-satpam)
+  MCP observability and CI guard for AI agents, providing bounded service health, metrics, Grafana visuals, and approval-gated GitHub Actions reruns.
 - [hmrdkn-labs/lazyss](https://github.com/hmrdkn-labs/lazyss)
   Terminal SSH/AWS SSM cockpit with inventory discovery, reachability checks, sessions, operator notes, and guarded SSH cleanup.
 - [hmrdkn-labs/agent-secrets-plumbing](https://github.com/hmrdkn-labs/agent-secrets-plumbing)
   Non-leaking toolkit for agent secrets reviews, OpenBao/Vault policy linting, runtime-injection planning, and deterministic redaction checks.
-- [hmrdkn-labs/open-pajak](https://github.com/hmrdkn-labs/open-pajak)
-  Offline-first client-side Indonesian tax SPA with stepwise PPh/PPN formula narratives, statically deployed to Cloudflare Pages.
 - [hamardikan/jobmatch-lite](https://github.com/hamardikan/jobmatch-lite)
   Deployed full-stack resume/job matching app with AI scoring, actionable findings, auth/history, and PDF reports.
 
