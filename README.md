@@ -2,32 +2,18 @@
 
 # Dika
 
-`hamardikan` · **DevOps Engineer Apprentice**
+`hamardikan` · **Software Engineer**
 
-I connect reliable operations with useful software: making systems easier to inspect, safer to change, and practical for people.
+I build web applications, developer tools, and the infrastructure that keeps them reliable. My focus is useful products, repeatable delivery, and systems that are easy to inspect and maintain.
 
-## Current focus
+## Selected work
 
-- Learning repeatable delivery through clear runbooks, guarded automation, and observable failure paths.
-- Building small tools where the reasoning stays visible and the output earns trust.
-- Prefer inspectable systems: clear interfaces, useful notes, and failure paths another person can verify.
-- Keep the pager quiet; let the useful work make the noise.
+- **[LazySS](https://github.com/hmrdkn-labs/lazyss)** — A terminal cockpit for SSH and AWS Systems Manager sessions, with machine discovery, reachability checks, and local operator notes.
+- **[Agent Awake](https://github.com/hmrdkn-labs/agent-awake)** — A macOS utility that keeps your Mac awake while coding agents work, then lets it sleep when they finish.
+- **[Pak Satpam](https://github.com/hmrdkn-labs/pos-satpam)** — An MCP server that gives AI agents bounded, redacted observability and CI evidence, with operator approval required for failed-job reruns.
+- **[Open Pajak](https://github.com/hmrdkn-labs/open-pajak)** — An open-source Indonesian tax calculator with transparent calculation breakdowns; inputs stay in the browser. Maintained with community contributors.
+- **[DevOps learning system](https://github.com/hmrdkn-labs/devops)** — Portable lessons, guided practice, and spaced-repetition reviews covering Linux, containers, and Kubernetes.
 
-## Selected projects
+## Elsewhere
 
-Four examples, chosen for operational usefulness and inspectable behavior:
-
-- [hmrdkn-labs/pak-satpam](https://github.com/hmrdkn-labs/pak-satpam)
-  MCP observability and CI guard for AI agents, providing bounded service health, metrics, Grafana visuals, and approval-gated GitHub Actions reruns.
-- [hmrdkn-labs/lazyss](https://github.com/hmrdkn-labs/lazyss)
-  Terminal SSH/AWS SSM cockpit with inventory discovery, reachability checks, sessions, operator notes, and guarded SSH cleanup.
-- [hmrdkn-labs/agent-secrets-plumbing](https://github.com/hmrdkn-labs/agent-secrets-plumbing)
-  Non-leaking toolkit for agent secrets reviews, OpenBao/Vault policy linting, runtime-injection planning, and deterministic redaction checks.
-- [hamardikan/jobmatch-lite](https://github.com/hamardikan/jobmatch-lite)
-  Deployed full-stack resume/job matching app with AI scoring, actionable findings, auth/history, and PDF reports.
-
-## Contact
-
-For professional context and a longer view of current work:
-
-[LinkedIn](https://www.linkedin.com/in/adhmrdkn/)
+[Website & writing](https://hamardikan.com) · [LinkedIn](https://www.linkedin.com/in/adhmrdkn/) · [hmrdkn-labs](https://github.com/hmrdkn-labs)
