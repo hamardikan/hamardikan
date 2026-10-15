@@ -26,4 +26,5 @@ ZZZzz /,`.-'`'    -.  ;-;;,_
      |,4-  ) )-,_. ,\ (  `'-'
     '---''(_/--'  `-'\_)
 ```
-<sub>do not disturb Karara :3 &nbsp;·&nbsp; Tabby, black tuxedo tabby · Karara, calico tabby · Mochi, cream British shorthair</sub>
+<sub>do not disturb Karara :3 
+&nbsp;·&nbsp; Tabby, black tuxedo tabby · Karara, calico tabby · Mochi, cream British shorthair</sub>
