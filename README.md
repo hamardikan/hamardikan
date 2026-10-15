@@ -5,7 +5,7 @@
 **Software engineer who ships the product *and* the pipeline under it.**
 I build web apps and developer tools people actually use, then wire up the CI/CD, Kubernetes and monitoring that keep them running.
 
-[![Website](https://img.shields.io/badge/hamardikan.com-0f172a?style=for-the-badge&logo=astro&logoColor=white)](https://hamardikan.com)
+[![Website](https://img.shields.io/badge/hamardikan.com-1e40af?style=for-the-badge&logo=astro&logoColor=white)](https://hamardikan.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhmrdkn/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.hamardikan@gmail.com)
 ![Open to roles](https://img.shields.io/badge/open_to-Software_·_Backend_·_Platform_roles-22c55e?style=for-the-badge)
