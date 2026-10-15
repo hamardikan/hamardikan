@@ -8,4 +8,9 @@ Now a DevOps apprentice at the Apple Developer Institute. Before that, product w
 
 Most of my side projects start as small annoyances. [Agent Awake](https://github.com/hmrdkn-labs/agent-awake) keeps my Mac up while coding agents work, [LazySS](https://github.com/hmrdkn-labs/lazyss) gets me onto servers, and [Open Pajak](https://github.com/hmrdkn-labs/open-pajak) shows how Indonesian tax is actually calculated. I also run a small Kubernetes cluster at home and keep a free [DevOps course](https://devops.hamardikan.com).
 
-[hamardikan.com](https://hamardikan.com)
+[![Tools I use](https://skillicons.dev/icons?i=ts,go,python,swift,react,nextjs,nestjs,postgres,docker,kubernetes,aws,terraform,grafana,linux&perline=14)](https://skillicons.dev)
+
+[![hamardikan.com](https://img.shields.io/badge/hamardikan.com-1e40af?style=flat-square&logo=astro&logoColor=white)](https://hamardikan.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhmrdkn/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:a.hamardikan@gmail.com)
+[![hmrdkn-labs](https://img.shields.io/badge/hmrdkn--labs-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/hmrdkn-labs)
